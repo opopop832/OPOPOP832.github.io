@@ -1,0 +1,43 @@
+server:
+  # 端口号
+  port: 8081
+
+spring:
+  profiles:
+    active: dev
+  jackson:
+    # 设置后台返参，若字段值为 null, 是否返回
+#    default-property-inclusion: non_null
+    date-format: yyyy-MM-dd HH:mm:ss
+  servlet:
+    multipart:
+      # 限制上传文件大小
+      max-file-size: 10MB
+      
+jwt:
+  # 签发人
+  issuer: quanxiaoha
+  # 秘钥
+  secret: gR6cytlUlgMfVh08nLFZf8hMk4mdJDX5rWBVlsCbKvRlWcLwNRU6+rIPcLx21x191kJgP8udtoZuHt5yUDWtgg==
+  # token 过期时间（单位：分钟） 24*60
+  tokenExpireTime: 1440
+  # token Header 中的 key 值
+  tokenHeaderKey: Authorization
+  # token Header 中的 value 值前缀
+  tokenPrefix: Bearer
+
+  
+#=================================================================
+# minio (上传图片需要，需配置成自己的地址)
+#=================================================================
+minio:
+  endpoint: http://127.0.0.1:9005
+  accessKey: minioadmin
+  secretKey: minioadmin
+  bucketName: img
+
+#=================================================================
+# IP归属地信息库文件路径 ip2region.xdb
+#=================================================================
+xdb:
+  profile: D:\mylog\weblog-springboot\weblog-web\src\main\resources\ip2region.xdb
