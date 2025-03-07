@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8acf954f-bd59-4fc7-aac5-1e2f964902a0" name="更改" comment="初始" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2o4HchNjs1IXFrucM6ZNukBJ1py" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WeblogWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="weblog-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quanxiaoha.weblog.web.WeblogWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8acf954f-bd59-4fc7-aac5-1e2f964902a0" name="更改" comment="" />
+      <created>1730122008966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730122008966</updated>
+      <workItem from="1730122010045" duration="293000" />
+      <workItem from="1730197962124" duration="600000" />
+      <workItem from="1730199118690" duration="1025000" />
+      <workItem from="1730200158623" duration="1518000" />
+      <workItem from="1730201933404" duration="1172000" />
+      <workItem from="1730203156951" duration="113000" />
+      <workItem from="1730203275570" duration="115000" />
+      <workItem from="1730203396517" duration="664000" />
+      <workItem from="1730278432893" duration="16000" />
+      <workItem from="1730278510581" duration="342000" />
+      <workItem from="1730278967834" duration="298000" />
+      <workItem from="1730350188094" duration="3918000" />
+      <workItem from="1730714101842" duration="4277000" />
+      <workItem from="1730861205080" duration="6473000" />
+      <workItem from="1731156461608" duration="826000" />
+      <workItem from="1731163539089" duration="1853000" />
+      <workItem from="1731727326643" duration="4047000" />
+      <workItem from="1733125131746" duration="3912000" />
+      <workItem from="1733216860758" duration="4127000" />
+      <workItem from="1733241038783" duration="120000" />
+      <workItem from="1733301408407" duration="291000" />
+      <workItem from="1733301704549" duration="2503000" />
+      <workItem from="1733373259014" duration="751000" />
+      <workItem from="1733456913115" duration="8365000" />
+      <workItem from="1733545742468" duration="2125000" />
+      <workItem from="1733908929954" duration="2853000" />
+      <workItem from="1735471735476" duration="136000" />
+      <workItem from="1736427340823" duration="4844000" />
+      <workItem from="1736508617408" duration="610000" />
+      <workItem from="1736509765494" duration="26000" />
+      <workItem from="1736510156052" duration="1247000" />
+      <workItem from="1736512444384" duration="692000" />
+      <workItem from="1736555316713" duration="1285000" />
+      <workItem from="1736937179899" duration="2379000" />
+      <workItem from="1736946563505" duration="1176000" />
+      <workItem from="1737002113480" duration="630000" />
+      <workItem from="1737081580126" duration="2746000" />
+      <workItem from="1737646338689" duration="629000" />
+      <workItem from="1737705419318" duration="621000" />
+      <workItem from="1739525666733" duration="612000" />
+      <workItem from="1739586075843" duration="1780000" />
+      <workItem from="1739754933006" duration="604000" />
+      <workItem from="1740372224057" duration="620000" />
+      <workItem from="1740394642719" duration="208000" />
+      <workItem from="1740394913535" duration="627000" />
+      <workItem from="1740460926459" duration="489000" />
+      <workItem from="1740540094540" duration="604000" />
+      <workItem from="1740645850129" duration="609000" />
+      <workItem from="1741145999428" duration="606000" />
+      <workItem from="1741227888826" duration="610000" />
+      <workItem from="1741255396332" duration="636000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始">
+      <option name="closed" value="true" />
+      <created>1730863258473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730863258473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
